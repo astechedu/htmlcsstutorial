@@ -1,0 +1,18 @@
+
+*{margin:0;padding:0;}
+h1{width:300px;color:blue;}
+
+h2{width:200px;color:green;border-width:5px 15px 5px 5px; border-style: solid; border-color:teal;}
+
+.page{width:800px; margin:0 auto;}
+
+.page .page01 .para01{color:brown;background:lightblue;}
+.page .page02 .para02{color:blue;background:yellow;}
+.page .page03 .para03{color:pink;background:black;}
+
+.page01{border-top-style:dashed;border-width:10px;}
+
+.page02{border-right-style:dotted;border-right-width:6px;}
+
+.page03{border-width:20px 5px 4px 10px;border-style:dashed;border-color:red;}
+                     

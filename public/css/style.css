@@ -1,0 +1,33 @@
+
+/* Tutorial 04 */
+.page{width:500px;margin:0 auto;color;}
+.heading{color:blue;}
+.para{color:green;}
+
+
+/* This CSS for tutorial_10.php  page */
+.tutorial_10_heading1{color:red; margin:auto;}
+.tutorial_10 {width:500px;border:1px solid green;margin:80px 80px;}
+.tutorial_10 .heading2{}
+.tutorial_10 .heading3{}
+.tutorial_10 .lastbox{color:blue;}
+.tutorial_10 .tutorial_10_box1{background:yellow;margin:20px 45px 45px 41px;}
+.tutorial_10 .lastbox{background:#efdefd;margin:68px 53px;}
+
+
+
+/* This CSS for tutorial_11.php  page */
+.tutorial_11_heading1{color:green; margin:auto;}
+.tutorial_11{
+	width:200px;
+	border:1px solid red;
+	background:yellow;
+	text-align:center;
+	padding:20px 30px 10px 40px;
+}
+
+
+
+
+
+
